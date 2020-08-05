@@ -1,0 +1,22 @@
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.smile img {
+    border-radius: 0;
+}
+
+.right,
+.left {
+    text-align: center;
+    float: inherit;
+}
+
+.tmp {
+    text-align: center;
+}
+body{
+	background-image: none;
+}
